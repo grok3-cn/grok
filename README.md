@@ -1,4 +1,4 @@
-# Grok 官网入口：grok3网页版，马斯克 Grok3 国内使用指南~ 【2025/03/29 更新】        
+# Grok 官网入口：grok3网页版，马斯克 Grok3 国内使用指南~ 【2025/03/31 更新】        
 
 国内使用 [**Grok3 中文版**](https://chat.yixiaai.com) ，**无需翻墙**，**支持 Grok-3 Reasoning 及中文版功能**   
 本指南提供全面的 **Grok3 国内使用指南**，包括国内可用的 [**Grok3 网页版**](https://chat.lanjing.ai)、[**Grok3 国内入口**](https://chat.yixiaai.com)、[**Grok 官网平替**](https://chat.lanjing.ai) 和 详细使用教程，帮助您快速使用上 grok~
